@@ -1,4 +1,4 @@
-# User - Clean Code
+# User - Lambda Expression
 
 ### Estrutura de projeto sobre o dominio de usuário.
 
@@ -15,8 +15,8 @@
 
 #### **Descrição**
 
-*Este repositório é referente ao estudo de Lambda Expression. Utilizei de um dominio referente a usuários.
-A ideia é entender e se especializar nas features acrescentadas a partir versão 1.8 da linguagem Java.
+* Este repositório é referente ao estudo de Lambda Expression. Utilizei de um dominio referente a usuários.
+A ideia é entender e se especializar nas features acrescentadas a partir versão 1.8 da linguagem Java. *
 
 </br>
 
