@@ -1,3 +1,5 @@
+<img src="./docs/images/java_image.png " width=250>
+
 # User - Lambda Expression
 
 ### Estrutura de projeto sobre o dominio de usuário.
@@ -25,13 +27,19 @@ A ideia é entender e se especializar nas features acrescentadas a partir versã
 *Seção referente aos desejos técnicos que pretendemos aplicar neste ciclo de estudo.*
 
 | Nome                                | Descrição                                                     | Concluído S/N |
-|-------------------------------------|---------------------------------------------------------------|---------------|
-| ***Interfaces Funcionais Java***    | Aprender a implementar interfaces funcionais do próprio Java. | N             |
-| ***Criar Interfaces Funcionais***   | Aprender a criar nossas próprias interfaces funcionais.       | N             |
-| ***Expressões Lambdas***            | Aprender a utilizar expressões lambdas.                       | N             |
+|-------------------------------------|---------------------------------------------------------------|--------------|
+| ***Interfaces Funcionais Java***    | Aprender a implementar interfaces funcionais do próprio Java. | S            |
+| ***Criar Interfaces Funcionais***   | Aprender a criar nossas próprias interfaces funcionais.       | S            |
+| ***Expressões Lambdas***            | Aprender a utilizar expressões lambdas.                       | S            |
 
 </br>
 <hr>
+
+#### **Sobre**
+
+*Esta seção possuí o Link abaixo que vos leva para o descritivo do autor do repositório.*
+
+[Link](./docs/pages/Author.md)
 
 #### **Redes sociais**
 
