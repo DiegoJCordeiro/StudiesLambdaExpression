@@ -34,6 +34,18 @@ A ideia é entender e se especializar nas features acrescentadas a partir versã
 
 </br>
 
+#### **Estrutura**
+
+*Seção referente as estruturas aplicadas sob o projeto de estudos.*
+
+| Pasta       | Endereço          | Descrição |
+|-------------|-------------------|------------|
+| ***java***  | *./src/main/java* | Contém todas as classe Java.
+| ***test***  | *./src/main/test* | Contém todos os arquivos de teste Java.
+| ***/docs*** | *./docs*          | Arquivos de documentação referente aos materiais utilizados.
+
+</br>
+
 #### **Documentações**
 
 *Seção referente as documentações das tecnologias aplicadas sob o projeto de estudos.*
