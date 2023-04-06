@@ -40,8 +40,8 @@ A ideia é entender e se especializar nas features acrescentadas a partir versã
 
 | Pasta       | Endereço          | Descrição |
 |-------------|-------------------|------------|
-| ***java***  | *./src/main/java* | Contém todas as classe Java.
-| ***test***  | *./src/main/test* | Contém todos os arquivos de teste Java.
+| ***/java*** | *./src/main/java* | Contém todas as classe Java.
+| ***/test*** | *./src/main/test* | Contém todos os arquivos de teste Java.
 | ***/docs*** | *./docs*          | Arquivos de documentação referente aos materiais utilizados.
 
 </br>
