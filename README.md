@@ -33,6 +33,18 @@ A ideia é entender e se especializar nas features acrescentadas a partir versã
 | ***Expressões Lambdas***            | Aprender a utilizar expressões lambdas.                       | S            |
 
 </br>
+
+#### **Documentações**
+
+*Seção referente as documentações das tecnologias aplicadas sob o projeto de estudos.*
+
+| Tecnologia                     | Descrição                                                                 | URL |
+|--------------------------------|---------------------------------------------------------------------------|------------|
+| ***Java Doc***                 | Utilizado para consultar a documentação Java.                             | [Link](https://docs.oracle.com/en/java/) |
+| ***Functional Interface Doc*** | Utilizado para consultar a documentação das interfaces funcionais do Java | [Link](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html) |
+| ***Exemplos***                 | Exemplos criados durante o estudo em Java de Lambdas Expressions.         | [Link](./docs/pages/Examples.md) |
+
+</br>
 <hr>
 
 #### **Sobre**
